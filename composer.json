@@ -1,0 +1,7 @@
+{
+    "name": "rishvi/wikirace",
+    "version": "0.0.1",
+    "require": {
+        "monolog/monolog": "1.0.*"
+    }
+}
